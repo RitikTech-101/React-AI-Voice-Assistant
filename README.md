@@ -18,4 +18,18 @@ This is a web-based AI Voice Assistant built with **React JS**. It allows users 
 - **State Management**: React's useState and useEffect hooks
 - **Styling**: Custom CSS (or optional UI frameworks like Material UI or Tailwind CSS)
 
+How to Use
+Activate the Assistant: Click the microphone icon or use a voice command to activate the assistant.
+Give Commands: Speak clearly to the assistant. Examples of commands include:
+"What is the weather like today?"
+"Open YouTube."
+"Set a reminder for 3 PM."
+Listen to Responses: The assistant will respond verbally with the answer or action related to your command.
+Contributing
+Contributions are welcome! If you want to improve the project, feel free to fork the repository and submit a pull request. You can contribute by:
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
